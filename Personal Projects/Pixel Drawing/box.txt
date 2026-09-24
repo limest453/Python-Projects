@@ -1,0 +1,15 @@
+3
+4
+10
+red
+blue
+yellow
+purple
+teal
+indigo
+turquoise
+green
+black
+white
+orange
+dark blue
